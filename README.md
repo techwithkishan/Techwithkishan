@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kishan Kumar and I'm a passionate AIML engineer, from BGIEM</h2>
+<h2 align="left">Hi 👋! My name is Kishan Kumar and I'm a passionate AIML engineer, from INDIA</h2>
 
 ###
 
