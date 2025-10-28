@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=techwithkishan&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![An image of @techwithkishan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techwithkishan)](https://holopin.io/@techwithkishan)
