@@ -9,6 +9,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=techwithkishan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techwithkishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📊 GitHub Activity Graph
+
+![TechWithKishan GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=techwithkishan&theme=github-compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=techwithkishan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
