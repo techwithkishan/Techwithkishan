@@ -1,7 +1,33 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techwithkishann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanishere) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@techwithkishan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techwithkishan101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techwithkishan.ai@mail.com) 
+## 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://instagram.com/techwithkishann">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kishanishere">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/techwithkishan">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@techwithkishan101">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:techwithkishan.ai@mail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+✨ Let's Connect • Build • Learn • Grow ✨
+</p>
 # 💻 Tech Stack:
 
 <p align="center">
