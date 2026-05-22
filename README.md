@@ -54,7 +54,7 @@
 <p align="center">
 ✨ Let's Connect • Build • Learn • Grow ✨
 </p>
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,anaconda,tensorflow,mysql,sklearn" />
