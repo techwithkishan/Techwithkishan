@@ -1,4 +1,30 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Hello+👋;I+am+Kishan+Kumar;AI+%26+ML+Engineering+Student;Building+Projects+%7C+Learning+%7C+Growing"/>
+
+</div>
+
+<br>
+
+# 🚀 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=Computer+Science+Engineering+(AI+%26+ML)+Student;Exploring+Artificial+Intelligence+and+Modern+Software+Systems;Building+Projects+that+combine+Logic+Data+and+Creativity;Interested+in+Machine+Learning+Development+and+Problem+Solving;Always+learning+new+technologies+and+shipping+ideas"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🧠 Learning → AI • ML • Software Engineering  
+⚙️ Building → Projects • Experiments • Real Skills  
+📈 Growing → Consistency • Problem Solving • Tech Depth  
+
+</div>
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
