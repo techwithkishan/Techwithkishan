@@ -44,7 +44,7 @@ B.Tech student in **AI & ML** at **Baderia Global Institute of Engineering & Man
 <div align="center">
 
 <a href="https://github.com/techwithkishan">
-  <img src="https://ghchart.rshah.org/22D3EE/techwithkishan" alt="GitHub contribution graph for techwithkishan" width="100%">
+  <img src="https://ghchart.rshah.org/39d353/techwithkishan" alt="GitHub contribution graph for techwithkishan" width="100%">
 </a>
 
 </div>
