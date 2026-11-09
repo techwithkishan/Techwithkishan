@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark-cat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light-cat.svg">
-  <img src="./dark-cat.svg" alt="Kishan (techwithkishan) — AI & ML Engineering Student and builder" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techwithkishan/Techwithkishan/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techwithkishan/Techwithkishan/main/light.svg">
+  <img src="https://raw.githubusercontent.com/techwithkishan/Techwithkishan/main/dark.svg" alt="Kishan (techwithkishan)" width="100%">
 </picture>
 
 </div>
