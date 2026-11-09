@@ -43,7 +43,9 @@ B.Tech student in **AI & ML** at **Baderia Global Institute of Engineering & Man
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techwithkishan&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats for techwithkishan" height="165">
+<a href="https://github.com/techwithkishan">
+  <img src="https://ghchart.rshah.org/22D3EE/techwithkishan" alt="GitHub contribution graph for techwithkishan" width="100%">
+</a>
 
 </div>
 
