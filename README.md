@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Kishan (techwithkishan) — AI & ML Engineering Student and builder. Tech Maestro at the Microsoft Student Chapter, Outreach Manager at CodingEra." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark-cat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light-cat.svg">
+  <img src="./dark-cat.svg" alt="Kishan (techwithkishan) — AI & ML Engineering Student and builder" width="100%">
 </picture>
 
 </div>
